@@ -1,0 +1,11 @@
+c:\users\sfenzer\documents\visual studio 2010\Projects\C_Sharp_library_mangement\C_Sharp_library_mangement\bin\Debug\C_Sharp_library_mangement.exe
+c:\users\sfenzer\documents\visual studio 2010\Projects\C_Sharp_library_mangement\C_Sharp_library_mangement\bin\Debug\C_Sharp_library_mangement.pdb
+c:\users\sfenzer\documents\visual studio 2010\Projects\C_Sharp_library_mangement\C_Sharp_library_mangement\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\sfenzer\documents\visual studio 2010\Projects\C_Sharp_library_mangement\C_Sharp_library_mangement\obj\x86\Debug\C_Sharp_library_mangement.Form1.resources
+c:\users\sfenzer\documents\visual studio 2010\Projects\C_Sharp_library_mangement\C_Sharp_library_mangement\obj\x86\Debug\C_Sharp_library_mangement.Properties.Resources.resources
+c:\users\sfenzer\documents\visual studio 2010\Projects\C_Sharp_library_mangement\C_Sharp_library_mangement\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\sfenzer\documents\visual studio 2010\Projects\C_Sharp_library_mangement\C_Sharp_library_mangement\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\sfenzer\documents\visual studio 2010\Projects\C_Sharp_library_mangement\C_Sharp_library_mangement\obj\x86\Debug\C_Sharp_library_mangement.exe
+c:\users\sfenzer\documents\visual studio 2010\Projects\C_Sharp_library_mangement\C_Sharp_library_mangement\obj\x86\Debug\C_Sharp_library_mangement.pdb
+C:\Users\Sfenzer\documents\visual studio 2010\Projects\C_Sharp_library_mangement\C_Sharp_library_mangement\obj\x86\Debug\C_Sharp_library_mangement.Form2.resources
+C:\Users\Sfenzer\documents\visual studio 2010\Projects\C_Sharp_library_mangement\C_Sharp_library_mangement\obj\x86\Debug\C_Sharp_library_mangement.Form3.resources

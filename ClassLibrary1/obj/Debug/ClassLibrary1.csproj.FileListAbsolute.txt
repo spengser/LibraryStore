@@ -1,0 +1,5 @@
+c:\users\sfenzer\documents\visual studio 2010\Projects\C_Sharp_library_mangement\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\sfenzer\documents\visual studio 2010\Projects\C_Sharp_library_mangement\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\sfenzer\documents\visual studio 2010\Projects\C_Sharp_library_mangement\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+c:\users\sfenzer\documents\visual studio 2010\Projects\C_Sharp_library_mangement\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\sfenzer\documents\visual studio 2010\Projects\C_Sharp_library_mangement\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
